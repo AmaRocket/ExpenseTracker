@@ -1,0 +1,32 @@
+
+To use this app U need:
+Python 3.8
+SQLlite3
+
+
+
+To use the app
+
+In Linux:
+ copy project to your folder
+ 
+ open terminal:
+ 
+ go to your project path. for example:
+ 
+-> cd /home/user/Django_pet/ExpenseTracker  (user is the name of your work profile)
+ 
+-> python3 manage.py runserver
+
+in browser open http://127.0.0.1:8000/
+
+ create profile and use the app :)
+ 
+ 
+For leave server in terminal use command CTRL+C
+
+
+
+
+
+
